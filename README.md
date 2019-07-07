@@ -8,16 +8,16 @@
 
 Дизайн-система, описанная в этом задании, предназначена для конструирования прототипов, в которых элементы интерфейса обозначены схематически, а вместо реальных данных — заглушки.
 
-![пример страницы](page-example.png)
+![пример страницы](https://github.com/yndx-shri-reviewer/task-1/blob/master/page-example.png)
 
 Правила дизайн-системы описываются в терминах методологии [БЭМ](https://ru.bem.info/methodology/key-concepts). Для обозначения сущностей интерфейса используется [соглашение по именованию](https://ru.bem.info/methodology/naming-convention).
 
 ### Что нужно сделать:
 
-1. [Реализовать базовые блоки дизайн-системы](BASE.md)
-2. [Реализовать контентные блоки](CONTENT.md)
-3. [Написать функцию шаблонизации](TEMPLATER.md)
-4. [Используя разные блоки собрать несколько страниц](PAGES.md)
+1. [Реализовать базовые блоки дизайн-системы](https://github.com/yndx-shri-reviewer/task-1/blob/master/BASE.md)
+2. [Реализовать контентные блоки](https://github.com/yndx-shri-reviewer/task-1/blob/master/CONTENT.md)
+3. [Написать функцию шаблонизации](https://github.com/yndx-shri-reviewer/task-1/blob/master/TEMPLATER.md)
+4. [Используя разные блоки собрать несколько страниц](https://github.com/yndx-shri-reviewer/task-1/blob/master/PAGES.md)
 
 ### Результат
 
